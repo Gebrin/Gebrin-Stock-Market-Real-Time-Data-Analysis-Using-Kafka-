@@ -8,7 +8,8 @@ We are going to use different technologies such as Python, Amazon Web Services (
 
 ## Technology Used
 
-- Programming Language - Python   
+- Programming Language - Python
+- GCP        
 - Amazon Web Service (AWS)     
       - S3 (Simple Storage Service)         
       - Athena            
